@@ -1,0 +1,125 @@
+{
+  "version": "1.0",
+  "updated": "2025-05-01",
+  "apps": {
+    "com.zhiliaoapp.musically": {
+      "appName": "TikTok",
+      "positiveIds": [
+        "com.zhiliaoapp.musically:id/u0p",
+        "com.zhiliaoapp.musically:id/hqf",
+        "com.zhiliaoapp.musically:id/qd3",
+        "com.zhiliaoapp.musically:id/gradual_bottom",
+        "com.zhiliaoapp.musically:id/ko1",
+        "com.zhiliaoapp.musically:id/czv",
+        "com.zhiliaoapp.musically:id/hqc"
+      ],
+      "exclusionIds": [
+        "com.zhiliaoapp.musically:id/ayg",
+        "com.zhiliaoapp.musically:id/cz4",
+        "com.zhiliaoapp.musically:id/cwb",
+        "com.zhiliaoapp.musically:id/j3c"
+      ]
+    },
+    "com.zhiliaoapp.musically.go": {
+      "appName": "TikTok Lite",
+      "positiveIds": [
+        "com.zhiliaoapp.musically.go:id/simplayer_api_player_view",
+        "com.zhiliaoapp.musically.go:id/gradual_top",
+        "com.zhiliaoapp.musically.go:id/de6",
+        "com.zhiliaoapp.musically.go:id/gradual_bottom",
+        "com.zhiliaoapp.musically.go:id/doa",
+        "com.zhiliaoapp.musically.go:id/ezd",
+        "com.zhiliaoapp.musically.go:id/dol"
+      ],
+      "exclusionIds": [
+        "com.zhiliaoapp.musically.go:id/do7",
+        "com.zhiliaoapp.musically.go:id/eyq",
+        "com.zhiliaoapp.musically.go:id/dht",
+        "com.zhiliaoapp.musically.go:id/dwa"
+      ]
+    },
+    "com.instagram.android": {
+      "appName": "Instagram",
+      "positiveIds": [
+        "com.instagram.android:id/direct_share_button",
+        "com.instagram.android:id/like_count",
+        "com.instagram.android:id/like_button",
+        "com.instagram.android:id/com.instagram.android:id/comment_button",
+        "com.instagram.android:id/comment_count",
+        "com.instagram.android:id/clips_ufi_more_button_component"
+      ],
+      "exclusionIds": [
+        "com.instagram.android:id/bottom_sheet_drag_handle_prism",
+        "com.instagram.android:id/bottom_sheet_drag_handle_frame",
+        "com.instagram.android:id/nav_buttons_and_title_container"
+      ]
+    },
+    "com.instagram.lite": {
+      "appName": "Instagram Lite",
+      "positiveIds": [],
+      "exclusionIds": []
+    },
+    "com.google.android.youtube": {
+      "appName": "YouTube",
+      "positiveIds": [
+        "com.google.android.youtube:id/reel_scrim_vertical_bottom_gradient",
+        "com.google.android.youtube:id/reel_scrim_vertical_bottom_static",
+        "com.google.android.youtube:id/reel_player_no_nav_top",
+        "com.google.android.youtube:id/reel_scrim_shorts_while_top"
+      ],
+      "exclusionIds": [
+        "com.google.android.youtube:id/arrow_drag_handle",
+        "com.google.android.youtube:id/modern_title",
+        "com.google.android.youtube:id/panel_header_bottom_border"
+      ]
+    },
+    "app.revanced.android.youtube": {
+      "appName": "YouTube Revanced",
+      "positiveIds": [
+        "app.revanced.android.youtube:id/reel_time_bar",
+        "app.revanced.android.youtube:id/reel_watch_refresher",
+        "app.revanced.android.youtube:id/reel_watch_player",
+        "app.revanced.android.youtube:id/reel_scrim_shorts_while_top"
+      ],
+      "exclusionIds": [
+        "app.revanced.android.youtube:id/arrow_drag_handle",
+        "app.revanced.android.youtube:id/header_container"
+      ]
+    },
+    "com.ss.android.ugc.aweme": {
+      "appName": "Douyin",
+      "positiveIds": [],
+      "exclusionIds": []
+    },
+    "com.ss.android.ugc.trill": {
+      "appName": "TikTok Regional",
+      "positiveIds": [
+        "com.ss.android.ugc.trill:id/dkr",
+        "com.ss.android.ugc.trill:id/ciz",
+        "com.ss.android.ugc.trill:id/erf",
+        "com.ss.android.ugc.trill:id/nwu"
+      ],
+      "exclusionIds": [
+        "com.ss.android.ugc.trill:id/cjt",
+        "com.ss.android.ugc.trill:id/at2",
+        "com.ss.android.ugc.trill:id/chr",
+        "com.ss.android.ugc.trill:id/ebm",
+        "com.ss.android.ugc.trill:id/hga"
+      ]
+    },
+    "com.ss.android.ugc.tiktok.lite": {
+      "appName": "TikTok Lite Regional",
+      "positiveIds": [
+        "com.ss.android.ugc.tiktok.lite:id/f_0",
+        "com.ss.android.ugc.tiktok.lite:id/rn2",
+        "com.ss.android.ugc.tiktok.lite:id/cmk",
+        "com.ss.android.ugc.tiktok.lite:id/evh"
+      ],
+      "exclusionIds": [
+        "com.ss.android.ugc.tiktok.lite:id/au1",
+        "com.ss.android.ugc.tiktok.lite:id/clb",
+        "com.ss.android.ugc.tiktok.lite:id/cny"
+      ]
+    }
+  }
+}
