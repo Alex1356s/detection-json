@@ -1,0 +1,35 @@
+{
+  "instagram": [
+    "com.instagram.android:id/clips_video_container",
+    "com.instagram.android:id/clips_author_username",
+    "com.instagram.android:id/like_count"
+  ],
+  "youtube": [],
+  "tiktok": [
+    "com.zhiliaoapp.musically:id/title",
+    "com.zhiliaoapp.musically:id/eb4",
+    "com.zhiliaoapp.musically:id/desc",
+    "com.zhiliaoapp.musically:id/de9",
+    "com.zhiliaoapp.musically:id/dzo",
+    "com.zhiliaoapp.musically:id/e29"
+  ],
+  "tiktok_lite": [
+    "com.zhiliaoapp.musically.go:id/title",
+    "com.zhiliaoapp.musically.go:id/eb4",
+    "com.zhiliaoapp.musically.go:id/desc",
+    "com.zhiliaoapp.musically.go:id/de9",
+    "com.zhiliaoapp.musically.go:id/dom",
+    "com.zhiliaoapp.musically.go:id/e29"
+  ],
+  "tiktok_lite_regional": [
+    "com.ss.android.ugc.tiktok.lite:id/f_0",
+    "com.ss.android.ugc.tiktok.lite:id/f_0",
+    "com.ss.android.ugc.tiktok.lite:id/nt3"
+  ],
+  "tiktok_regional": [
+    "com.ss.android.ugc.trill:id/fb6",
+    "com.ss.android.ugc.trill:id/s4q",
+    "com.ss.android.ugc.trill:id/nwj",
+    "com.ss.android.ugc.trill:id/pgb"
+  ]
+}
