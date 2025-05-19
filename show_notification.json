@@ -1,0 +1,16 @@
+{
+  "show_notification": true,
+  "notification_id": 1001,
+  "titles": {
+    "en": "Special Offer!",
+    "es": "¡Oferta Especial!",
+    "fr": "Offre Spéciale!",
+    "de": "Sonderangebot!"
+  },
+  "messages": {
+    "en": "Check out our premium features with a 30% discount today!",
+    "es": "¡Descubre nuestras funciones premium con un 30% de descuento hoy!",
+    "fr": "Découvrez nos fonctionnalités premium avec une réduction de 30% aujourd'hui!",
+    "de": "Entdecken Sie unsere Premium-Funktionen heute mit 30% Rabatt!"
+  }
+}
