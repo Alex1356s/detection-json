@@ -46,7 +46,9 @@
         "com.instagram.android:id/like_button",
         "com.instagram.android:id/com.instagram.android:id/comment_button",
         "com.instagram.android:id/comment_count",
-        "com.instagram.android:id/clips_ufi_more_button_component"
+        "com.instagram.android:id/clips_ufi_more_button_component",
+        "com.instagram.android:id/suggested_title",
+        "com.instagram.android:id/clips_caption_component"
       ],
       "exclusionIds": [
         "com.instagram.android:id/bottom_sheet_drag_handle_prism",
