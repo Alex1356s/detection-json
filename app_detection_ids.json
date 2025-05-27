@@ -8,16 +8,18 @@
         "com.zhiliaoapp.musically:id/u0p",
         "com.zhiliaoapp.musically:id/hqf",
         "com.zhiliaoapp.musically:id/qd3",
-        "com.zhiliaoapp.musically:id/gradual_bottom",
-        "com.zhiliaoapp.musically:id/ko1",
-        "com.zhiliaoapp.musically:id/czv",
-        "com.zhiliaoapp.musically:id/hqc"
+        "com.zhiliaoapp.musically:id/d5w",
+        "com.zhiliaoapp.musically:id/ubm",
+        "com.zhiliaoapp.musically:id/e3m",
+        "com.zhiliaoapp.musically:id/cya",
+        "com.zhiliaoapp.musically:id/axu",
+        "com.zhiliaoapp.musically:id/fkh"
       ],
       "exclusionIds": [
         "com.zhiliaoapp.musically:id/ayt",
         "com.zhiliaoapp.musically:id/cz9",
         "com.zhiliaoapp.musically:id/cwb",
-        "com.zhiliaoapp.musically:id/j3c"
+        "com.zhiliaoapp.musically:id/j3c",
       ]
     },
     "com.zhiliaoapp.musically.go": {
@@ -99,7 +101,11 @@
         "com.ss.android.ugc.trill:id/dkr",
         "com.ss.android.ugc.trill:id/ciz",
         "com.ss.android.ugc.trill:id/erf",
-        "com.ss.android.ugc.trill:id/nwu"
+        "com.ss.android.ugc.trill:id/nwu",
+        "com.ss.android.ugc.trill:id/ewe",
+        "com.ss.android.ugc.trill:id/s4q",
+        "com.ss.android.ugc.trill:id/cq6",
+        "com.ss.android.ugc.trill:id/as3"
       ],
       "exclusionIds": [
         "com.ss.android.ugc.trill:id/cjt",
