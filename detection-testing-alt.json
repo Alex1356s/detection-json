@@ -16,7 +16,14 @@
         "com.zhiliaoapp.musically:id/fkh",
         "com.ss.android.ugc.trill:id/g8v",
         "com.ss.android.ugc.trill:id/oxh",
-        "com.ss.android.ugc.trill:id/jpr"
+        "com.ss.android.ugc.trill:id/jpr",
+        "com.zhiliaoapp.musically:id/view_rootview",
+        "com.zhiliaoapp.musically:id/uy3",
+        "com.zhiliaoapp.musically:id/v63",
+        "com.zhiliaoapp.musically:id/urg",
+        "com.zhiliaoapp.musically:id/un7",
+        "com.zhiliaoapp.musically:id/un8,
+        "com.zhiliaoapp.musically:id/zb"
       ],
       "exclusionIds": [
         "com.zhiliaoapp.musically:id/ayt",
@@ -123,7 +130,15 @@
         "com.ss.android.ugc.trill:id/as3",
         "com.zhiliaoapp.musically:id/ffe",
         "com.zhiliaoapp.musically:id/kxg",
-        "com.zhiliaoapp.musically:id/qtz"
+        "com.zhiliaoapp.musically:id/qtz",
+        "com.ss.android.ugc.trill:id/jsm",
+        "com.ss.android.ugc.trill:id/jr_",
+        "com.ss.android.ugc.trill:id/k5y",
+        "com.ss.android.ugc.trill:id/h27",
+        "com.ss.android.ugc.trill:id/oxh",
+        "com.ss.android.ugc.trill:id/player_view",
+        "com.ss.android.ugc.trill:id/l7g"
+
       ],
       "exclusionIds": [
         "com.ss.android.ugc.trill:id/cjt",
