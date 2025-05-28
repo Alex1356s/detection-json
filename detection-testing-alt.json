@@ -81,7 +81,8 @@
         "com.google.android.youtube:id/reel_player_no_nav_top",
         "com.google.android.youtube:id/reel_scrim_shorts_while_top",
         "com.google.android.youtube:id/reel_player_footer_container",
-        "com.google.android.youtube:id/reel_pivot_button"
+        "com.google.android.youtube:id/reel_pivot_button",
+        "com.google.android.youtube:id/metapanel"
       ],
       "exclusionIds": [
         "com.google.android.youtube:id/arrow_drag_handle",
