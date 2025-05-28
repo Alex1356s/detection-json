@@ -19,7 +19,14 @@
         "com.zhiliaoapp.musically:id/ayt",
         "com.zhiliaoapp.musically:id/cz9",
         "com.zhiliaoapp.musically:id/cwb",
-        "com.zhiliaoapp.musically:id/j3c"
+        "com.zhiliaoapp.musically:id/j3c",
+        "com.zhiliaoapp.musically:id/nbp",
+        "com.zhiliaoapp.musically:id/n92",
+        "com.zhiliaoapp.musically:id/nbp",
+        "com.zhiliaoapp.musically:id/nbq",
+        "com.zhiliaoapp.musically:id/n91",
+        "com.zhiliaoapp.musically:id/nbq",
+        "com.zhiliaoapp.musically:id/l3x"
       ]
     },
     "com.zhiliaoapp.musically.go": {
@@ -113,7 +120,12 @@
         "com.ss.android.ugc.trill:id/chr",
         "com.ss.android.ugc.trill:id/ebm",
         "com.ss.android.ugc.trill:id/hga",
-        "com.ss.android.ugc.trill:id/h6v"
+        "com.ss.android.ugc.trill:id/h6v",
+        "com.ss.android.ugc.trill:id/jvf",
+        "com.ss.android.ugc.trill:id/lvi",
+        "com.ss.android.ugc.trill:id/lsg",
+        "com.ss.android.ugc.trill:id/lvj",
+        "com.ss.android.ugc.trill:id/lsf"
       ]
     },
     "com.ss.android.ugc.tiktok.lite": {
