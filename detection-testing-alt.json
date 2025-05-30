@@ -100,7 +100,6 @@
     "app.revanced.android.youtube": {
       "appName": "YouTube Revanced",
       "positiveIds": [
-        "app.revanced.android.youtube:id/reel_time_bar",
         "app.revanced.android.youtube:id/reel_watch_refresher",
         "app.revanced.android.youtube:id/reel_watch_player",
         "app.revanced.android.youtube:id/reel_scrim_shorts_while_top",
