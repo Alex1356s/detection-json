@@ -13,13 +13,35 @@
         "com.zhiliaoapp.musically:id/e3m",
         "com.zhiliaoapp.musically:id/cya",
         "com.zhiliaoapp.musically:id/axu",
-        "com.zhiliaoapp.musically:id/fkh"
+        "com.zhiliaoapp.musically:id/fkh",
+        "com.ss.android.ugc.trill:id/g8v",
+        "com.ss.android.ugc.trill:id/oxh",
+        "com.ss.android.ugc.trill:id/jpr",
+        "com.zhiliaoapp.musically:id/view_rootview",
+        "com.zhiliaoapp.musically:id/uy3",
+        "com.zhiliaoapp.musically:id/v63",
+        "com.zhiliaoapp.musically:id/urg",
+        "com.zhiliaoapp.musically:id/un7",
+        "com.zhiliaoapp.musically:id/un8",
+        "com.zhiliaoapp.musically:id/zb"
       ],
       "exclusionIds": [
         "com.zhiliaoapp.musically:id/ayt",
         "com.zhiliaoapp.musically:id/cz9",
         "com.zhiliaoapp.musically:id/cwb",
-        "com.zhiliaoapp.musically:id/j3c"
+        "com.zhiliaoapp.musically:id/j3c",
+        "com.zhiliaoapp.musically:id/nbp",
+        "com.zhiliaoapp.musically:id/n92",
+        "com.zhiliaoapp.musically:id/nbp",
+        "com.zhiliaoapp.musically:id/nbq",
+        "com.zhiliaoapp.musically:id/n91",
+        "com.zhiliaoapp.musically:id/nbq",
+        "com.zhiliaoapp.musically:id/l3x",
+        "com.zhiliaoapp.musically:id/k8p",
+        "com.zhiliaoapp.musically:id/au7",
+        "com.zhiliaoapp.musically:id/dbr",
+        "com.zhiliaoapp.musically:id/hqh",
+        "com.zhiliaoapp.musically:id/ryl"
       ]
     },
     "com.zhiliaoapp.musically.go": {
@@ -69,7 +91,10 @@
         "com.google.android.youtube:id/reel_scrim_vertical_bottom_gradient",
         "com.google.android.youtube:id/reel_scrim_vertical_bottom_static",
         "com.google.android.youtube:id/reel_player_no_nav_top",
-        "com.google.android.youtube:id/reel_scrim_shorts_while_top"
+        "com.google.android.youtube:id/reel_scrim_shorts_while_top",
+        "com.google.android.youtube:id/reel_player_footer_container",
+        "com.google.android.youtube:id/reel_pivot_button",
+        "com.google.android.youtube:id/metapanel"
       ],
       "exclusionIds": [
         "com.google.android.youtube:id/arrow_drag_handle",
@@ -80,10 +105,11 @@
     "app.revanced.android.youtube": {
       "appName": "YouTube Revanced",
       "positiveIds": [
-        "app.revanced.android.youtube:id/reel_time_bar",
         "app.revanced.android.youtube:id/reel_watch_refresher",
         "app.revanced.android.youtube:id/reel_watch_player",
-        "app.revanced.android.youtube:id/reel_scrim_shorts_while_top"
+        "app.revanced.android.youtube:id/reel_scrim_shorts_while_top",
+        "com.google.android.youtube:id/reel_player_footer_container",
+        "com.google.android.youtube:id/reel_pivot_button"
       ],
       "exclusionIds": [
         "app.revanced.android.youtube:id/arrow_drag_handle",
@@ -105,7 +131,18 @@
         "com.ss.android.ugc.trill:id/ewe",
         "com.ss.android.ugc.trill:id/s4q",
         "com.ss.android.ugc.trill:id/cq6",
-        "com.ss.android.ugc.trill:id/as3"
+        "com.ss.android.ugc.trill:id/as3",
+        "com.zhiliaoapp.musically:id/ffe",
+        "com.zhiliaoapp.musically:id/kxg",
+        "com.zhiliaoapp.musically:id/qtz",
+        "com.ss.android.ugc.trill:id/jsm",
+        "com.ss.android.ugc.trill:id/jr_",
+        "com.ss.android.ugc.trill:id/k5y",
+        "com.ss.android.ugc.trill:id/h27",
+        "com.ss.android.ugc.trill:id/oxh",
+        "com.ss.android.ugc.trill:id/player_view",
+        "com.ss.android.ugc.trill:id/l7g"
+
       ],
       "exclusionIds": [
         "com.ss.android.ugc.trill:id/cjt",
@@ -113,7 +150,17 @@
         "com.ss.android.ugc.trill:id/chr",
         "com.ss.android.ugc.trill:id/ebm",
         "com.ss.android.ugc.trill:id/hga",
-        "com.ss.android.ugc.trill:id/h6v"
+        "com.ss.android.ugc.trill:id/h6v",
+        "com.ss.android.ugc.trill:id/jvf",
+        "com.ss.android.ugc.trill:id/lvi",
+        "com.ss.android.ugc.trill:id/lsg",
+        "com.ss.android.ugc.trill:id/lvj",
+        "com.ss.android.ugc.trill:id/lsf",
+        "com.ss.android.ugc.trill:id/gtg",
+        "com.ss.android.ugc.trill:id/py0",
+        "com.ss.android.ugc.trill:id/j4_",
+        "com.ss.android.ugc.trill:id/aoc",
+        "com.ss.android.ugc.trill:id/cwj"
       ]
     },
     "com.ss.android.ugc.tiktok.lite": {
