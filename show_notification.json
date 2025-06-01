@@ -1,6 +1,7 @@
 {
-  "show_notification": false,
+  "show_notification": true,
   "notification_id": 1001,
+  "url": "https://www.google.com/?hl=es-419",
   "titles": {
     "en": "Special Offer!",
     "es": "¡Oferta Especial!",
