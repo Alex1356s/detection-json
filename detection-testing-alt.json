@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
-  "updated": "2025-05-01",
+  "version": "1.2",
+  "updated": "2025-07-04",
   "apps": {
     "com.zhiliaoapp.musically": {
       "appName": "TikTok",
@@ -31,6 +31,8 @@
         "com.zhiliaoapp.musically:id/cwb",
         "com.zhiliaoapp.musically:id/j3c",
         "com.zhiliaoapp.musically:id/nbp",
+        "com.zhiliaoapp.musically:id/b0_",
+        "com.zhiliaoapp.musically:id/iry",
         "com.zhiliaoapp.musically:id/n92",
         "com.zhiliaoapp.musically:id/nbp",
         "com.zhiliaoapp.musically:id/nbq",
