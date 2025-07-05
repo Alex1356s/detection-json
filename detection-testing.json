@@ -1,50 +1,16 @@
 {
-  "version": "1.2",
-  "updated": "2025-07-04",
+  "version": "1.3",
+  "updated": "2025-07-05",
   "apps": {
     "com.zhiliaoapp.musically": {
       "appName": "TikTok",
       "positiveIds": [
-        "com.zhiliaoapp.musically:id/u0p",
-        "com.zhiliaoapp.musically:id/hqf",
-        "com.zhiliaoapp.musically:id/qd3",
-        "com.zhiliaoapp.musically:id/d5w",
-        "com.zhiliaoapp.musically:id/ubm",
-        "com.zhiliaoapp.musically:id/e3m",
-        "com.zhiliaoapp.musically:id/cya",
-        "com.zhiliaoapp.musically:id/axu",
-        "com.zhiliaoapp.musically:id/fkh",
-        "com.ss.android.ugc.trill:id/g8v",
-        "com.ss.android.ugc.trill:id/oxh",
-        "com.ss.android.ugc.trill:id/jpr",
         "com.zhiliaoapp.musically:id/view_rootview",
-        "com.zhiliaoapp.musically:id/uy3",
-        "com.zhiliaoapp.musically:id/v63",
-        "com.zhiliaoapp.musically:id/urg",
-        "com.zhiliaoapp.musically:id/un7",
-        "com.zhiliaoapp.musically:id/un8",
-        "com.zhiliaoapp.musically:id/zb"
+        "com.zhiliaoapp.musically:id/player_view",
+        "com.zhiliaoapp.musically:id/long_press_layout",
+        "com.zhiliaoapp.musically:id/desc"
       ],
-      "exclusionIds": [
-        "com.zhiliaoapp.musically:id/ayt",
-        "com.zhiliaoapp.musically:id/cz9",
-        "com.zhiliaoapp.musically:id/cwb",
-        "com.zhiliaoapp.musically:id/j3c",
-        "com.zhiliaoapp.musically:id/nbp",
-        "com.zhiliaoapp.musically:id/b0_",
-        "com.zhiliaoapp.musically:id/iry",
-        "com.zhiliaoapp.musically:id/n92",
-        "com.zhiliaoapp.musically:id/nbp",
-        "com.zhiliaoapp.musically:id/nbq",
-        "com.zhiliaoapp.musically:id/n91",
-        "com.zhiliaoapp.musically:id/nbq",
-        "com.zhiliaoapp.musically:id/l3x",
-        "com.zhiliaoapp.musically:id/k8p",
-        "com.zhiliaoapp.musically:id/au7",
-        "com.zhiliaoapp.musically:id/dbr",
-        "com.zhiliaoapp.musically:id/hqh",
-        "com.zhiliaoapp.musically:id/ryl"
-      ]
+      "exclusionIds": []
     },
     "com.zhiliaoapp.musically.go": {
       "appName": "TikTok Lite",
@@ -126,44 +92,11 @@
     "com.ss.android.ugc.trill": {
       "appName": "TikTok Regional",
       "positiveIds": [
-        "com.ss.android.ugc.trill:id/dkr",
-        "com.ss.android.ugc.trill:id/ciz",
-        "com.ss.android.ugc.trill:id/erf",
-        "com.ss.android.ugc.trill:id/nwu",
-        "com.ss.android.ugc.trill:id/ewe",
-        "com.ss.android.ugc.trill:id/s4q",
-        "com.ss.android.ugc.trill:id/cq6",
-        "com.ss.android.ugc.trill:id/as3",
-        "com.zhiliaoapp.musically:id/ffe",
-        "com.zhiliaoapp.musically:id/kxg",
-        "com.zhiliaoapp.musically:id/qtz",
-        "com.ss.android.ugc.trill:id/jsm",
-        "com.ss.android.ugc.trill:id/jr_",
-        "com.ss.android.ugc.trill:id/k5y",
-        "com.ss.android.ugc.trill:id/h27",
-        "com.ss.android.ugc.trill:id/oxh",
         "com.ss.android.ugc.trill:id/player_view",
-        "com.ss.android.ugc.trill:id/l7g"
-
+        "com.ss.android.ugc.trill:id/view_rootview",
+        "com.ss.android.ugc.trill:id/desc"
       ],
-      "exclusionIds": [
-        "com.ss.android.ugc.trill:id/cjt",
-        "com.ss.android.ugc.trill:id/at2",
-        "com.ss.android.ugc.trill:id/chr",
-        "com.ss.android.ugc.trill:id/ebm",
-        "com.ss.android.ugc.trill:id/hga",
-        "com.ss.android.ugc.trill:id/h6v",
-        "com.ss.android.ugc.trill:id/jvf",
-        "com.ss.android.ugc.trill:id/lvi",
-        "com.ss.android.ugc.trill:id/lsg",
-        "com.ss.android.ugc.trill:id/lvj",
-        "com.ss.android.ugc.trill:id/lsf",
-        "com.ss.android.ugc.trill:id/gtg",
-        "com.ss.android.ugc.trill:id/py0",
-        "com.ss.android.ugc.trill:id/j4_",
-        "com.ss.android.ugc.trill:id/aoc",
-        "com.ss.android.ugc.trill:id/cwj"
-      ]
+      "exclusionIds": []
     },
     "com.ss.android.ugc.tiktok.lite": {
       "appName": "TikTok Lite Regional",
