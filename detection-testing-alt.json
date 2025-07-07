@@ -1,6 +1,6 @@
 {
-  "version": "1.3",
-  "updated": "2025-07-05",
+  "version": "1.4",
+  "updated": "2025-07-06",
   "apps": {
     "com.zhiliaoapp.musically": {
       "appName": "TikTok",
@@ -45,7 +45,11 @@
       "exclusionIds": [
         "com.instagram.android:id/bottom_sheet_drag_handle_prism",
         "com.instagram.android:id/bottom_sheet_drag_handle_frame",
-        "com.instagram.android:id/nav_buttons_and_title_container"
+        "com.instagram.android:id/layout_container_bottom_sheet",
+        "com.instagram.android:id/nav_buttons_and_title_container",
+        "com.instagram.android:id/direct_private_share_action_bar_container_view",
+        "com.instagram.android:id/direct_share_sheet_grid_view_pog",
+        "com.instagram.android:id/direct_private_share_sticky_search_box"
       ]
     },
     "com.instagram.lite": {
