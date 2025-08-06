@@ -1,6 +1,6 @@
 {
-  "version": "1.4",
-  "updated": "2025-07-06",
+  "version": "1.7",
+  "updated": "2025-06-08",
   "apps": {
     "com.zhiliaoapp.musically": {
       "appName": "TikTok",
@@ -33,7 +33,6 @@
     "com.instagram.android": {
       "appName": "Instagram",
       "positiveIds": [
-        "com.instagram.android:id/direct_share_button",
         "com.instagram.android:id/like_count",
         "com.instagram.android:id/like_button",
         "com.instagram.android:id/com.instagram.android:id/comment_button",
@@ -118,3 +117,4 @@
     }
   }
 }
+
