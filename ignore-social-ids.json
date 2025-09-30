@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "updated": "2025-09-30",
+  "apps": {
+    "com.instagram.android": {
+      "appName": "Instagram",
+      "ignoreIds": [
+        "com.instagram.android:id/sender_profile_pic",
+        "com.instagram.android:id/sender_username_or_fullname",
+        "com.instagram.android:id/sender_timestamp",
+        "com.instagram.android:id/reply_bar_edittext",
+        "com.instagram.android:id/reel_viewer_message_composer",
+        "com.instagram.android:id/reply_bar_emoji_button_inside_composer",
+        "com.instagram.android:id/reply_bar_container_and_title",
+        "com.instagram.android:id/action_bar_button_back",
+        "com.instagram.android:id/clips_viewer_camera_button"
+      ]
+    }
+  }
+}
