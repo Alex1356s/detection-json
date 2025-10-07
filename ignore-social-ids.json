@@ -12,7 +12,6 @@
         "com.instagram.android:id/reel_viewer_message_composer",
         "com.instagram.android:id/reply_bar_emoji_button_inside_composer",
         "com.instagram.android:id/reply_bar_container_and_title",
-        "com.instagram.android:id/action_bar_button_back",
         "com.instagram.android:id/clips_viewer_camera_button"
       ]
     }
