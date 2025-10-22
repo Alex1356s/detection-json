@@ -1,14 +1,13 @@
 {
-  "version": "1.7",
-  "updated": "2025-06-08",
+  "version": "1.8",
+  "updated": "2025-10-21",
   "apps": {
     "com.zhiliaoapp.musically": {
       "appName": "TikTok",
       "positiveIds": [
         "com.zhiliaoapp.musically:id/view_rootview",
         "com.zhiliaoapp.musically:id/player_view",
-        "com.zhiliaoapp.musically:id/long_press_layout",
-        "com.zhiliaoapp.musically:id/desc"
+        "com.zhiliaoapp.musically:id/long_press_layout"
       ],
       "exclusionIds": []
     },
@@ -117,4 +116,5 @@
     }
   }
 }
+
 
