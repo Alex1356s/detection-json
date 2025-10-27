@@ -1,5 +1,5 @@
 {
-  "show_notification": true,
+  "show_notification": false,
   "notification_id": 1002,
   "url": "https://mindfulscroll-c6d4b.web.app/update_v1.2.0.html",
   "titles": {
